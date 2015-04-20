@@ -1,3 +1,4 @@
+#ruby ping-pong test 4/20/2015 written by Paul Ogawa and Andrew Burt
 #english spec
 #The ping-pong method counts from 1 to a given number,
 #(30 for now),
